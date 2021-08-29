@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omerfarukonder
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning and AUdio Signal Processing
+- 👀 I’m interested in Machine Learning and Audio Signal Processing
+- 🌱 I’m currently learning Machine Learning and Audio Signal Processing
 - 📫 How to reach me https://www.linkedin.com/in/onderomerfaruk/
 
 <!---
