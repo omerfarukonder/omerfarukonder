@@ -77,12 +77,12 @@ More systems will be open-sourced soon.
 
 # Technical Stack
 
-Python  
-LLM Systems  
-Retrieval-Augmented Generation (RAG)  
-Playwright  
-Pandas  
-Data Pipelines  
+🐍 Python
+🧠 LLM Systems
+🔎 RAG Architectures
+🎭 Playwright
+📊 Pandas
+🔗 Data Pipelines
 
 ---
 
