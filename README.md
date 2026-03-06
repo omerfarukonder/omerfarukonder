@@ -20,32 +20,11 @@ My work explores how AI systems can move beyond analysis and begin **producing d
 
 Systems designed to **interpret context, generate judgement, and produce actions.**
 
-Examples include:
-
-- Multi-agent reasoning systems  
-- Browser-based execution agents (Playwright)  
-- Context-aware decision engines  
-- Autonomous analysis and response agents  
-
-These systems aim to transform **information into decisions and executable outcomes.**
-
----
-
 ## 📊 Data Intelligence Systems
 
 Infrastructure that converts **large-scale data into structured signals for intelligent systems.**
 
-Examples include:
-
-- Demand prediction systems  
-- Inventory intelligence models  
-- SEO and traffic intelligence engines  
-- Large-scale HTML analysis pipelines  
-- Marketplace signal detection  
-
 Focus: **extracting weak signals from massive datasets and converting them into meaningful intelligence.**
-
----
 
 ## 🛒 Commerce Intelligence Infrastructure
 
