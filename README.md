@@ -16,17 +16,17 @@ My work explores how AI systems can move beyond analysis and begin **producing d
 
 # What I Build
 
-## 🤖 Agentic AI Systems
+## Agentic AI Systems
 
 Systems designed to **interpret context, generate judgement, and produce actions.**
 
-## 📊 Data Intelligence Systems
+## Data Intelligence Systems
 
 Infrastructure that converts **large-scale data into structured signals for intelligent systems.**
 
 Focus: **extracting weak signals from massive datasets and converting them into meaningful intelligence.**
 
-## 🛒 Commerce Intelligence Infrastructure
+## Commerce Intelligence Infrastructure
 
 Designing intelligence layers that help commerce systems become **more adaptive and data-aware.**
 
@@ -44,11 +44,11 @@ Goal: **turning complex commerce ecosystems into structured intelligence network
 
 # Systems Currently In Development
 
-🚧 Autonomous judgement engines *(TBA)*  
-🚧 Action-generation AI agents *(TBA)*  
-🚧 Large-scale SEO intelligence systems *(TBA)*  
-🚧 Agent orchestration frameworks *(TBA)*  
-🚧 Marketplace intelligence platforms *(TBA)*  
+- Autonomous judgement engines *(TBA)*  
+- Action-generation AI agents *(TBA)*  
+- Large-scale SEO intelligence systems *(TBA)*  
+- Agent orchestration frameworks *(TBA)*  
+- Marketplace intelligence platforms *(TBA)*  
 
 More systems will be open-sourced soon.
 
