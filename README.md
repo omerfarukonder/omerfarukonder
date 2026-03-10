@@ -1,4 +1,5 @@
 # Ömer Önder
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=omerfarukonder)
 
 ### AI Systems Builder • Agentic AI • Data Intelligence
 
