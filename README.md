@@ -1,5 +1,4 @@
 # Ömer Önder
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=omerfarukonder)
 
 ### AI Systems Builder • Agentic AI • Data Intelligence
 
@@ -83,3 +82,5 @@ Interested in collaborations around:
 - Agentic AI
 - Data intelligence systems
 - Autonomous decision architectures
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=omerfarukonder)
