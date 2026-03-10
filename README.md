@@ -75,7 +75,7 @@ My focus is building **AI systems that transform data into automated reasoning a
 
 ---
 
-# Contact
+# Come join me!
 
 Interested in collaborations around:
 
